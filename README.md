@@ -10,7 +10,7 @@ const Mrn = {
             .net : ["WebApi", "RazorPage"],
         },
          frontEnd: {
-            js: ["Jquery", "React", "Next"],
+            js: ["Jquery", "React"],
         },
         devOps: [ "Docker🐳"],
         databases: ["sqlServer", "MySql", "Redis"],
