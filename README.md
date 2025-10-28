@@ -1,16 +1,3 @@
-```markdown
-<!-- 🚀 Mrn's Ultra Cool GitHub Profile -->
-
-<h1 align="center">👋 Yo! I'm Mohammad (Mrn)</h1>
-
-<p align="center">
-  <b>.NET Dev ⚡ Backend Wizard | Clean Code Sniper | Coffee Addict ☕</b><br>
-  <i>Turning caffeine into 🔥 code and epic repos.</i>
-</p>
-
----
-
-### 🧬 About Me
 
 ```javascript
 const Mrn = {
