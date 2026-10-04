@@ -1,52 +1,51 @@
-# 👋 Hey, I'm Mohammad
+# 👋 Hey, I'm Mohammad Rahiminia
 
-### Software Engineer | .NET & C# Developer
+### Software Developer | .NET & C# | Backend Engineering
 
-I build backend systems, enterprise applications, and occasionally break things just to understand how they work. 😄
+I'm a Software Developer focused on building **enterprise applications, backend systems, and database-driven solutions** with .NET and C#.
+
+I enjoy solving real-world engineering problems — from application architecture and database performance to scalable APIs, DevOps, and AI-powered solutions.
 
 ```javascript
-const Mrn = {
-    role: "Software Engineer",
+const Mohammad = {
+    role: "Software Developer",
 
-    languages: [
-        "C#",
-        "JavaScript"
-    ],
+    location: "Tehran, Iran",
 
-    backend: [
-        ".NET",
-        "ASP.NET Core",
-        "Web API",
-        "Razor Pages"
-    ],
+    stack: {
+        backend: [".NET", "ASP.NET Core", "C#"],
+        frontend: ["JavaScript", "jQuery", "React"],
+        databases: ["SQL Server", "MySQL", "Redis"],
+        devOps: ["Docker", "Git", "GitHub"]
+    },
 
-    frontend: [
-        "JavaScript",
-        "jQuery",
-        "React"
-    ],
-
-    databases: [
-        "SQL Server",
-        "MySQL",
-        "Redis"
-    ],
-
-    tools: [
-        "Docker",
-        "Git",
-        "GitHub"
-    ],
-
-    currentlyExploring: [
-        "Artificial Intelligence",
+    interests: [
+        "Enterprise Software",
+        "Backend Engineering",
+        "Database Performance",
+        "Software Architecture",
         "Machine Learning",
-        "LLMs"
+        "Artificial Intelligence"
     ],
 
     motto: "Code. Commit. Repeat. 🚀"
 };
 ```
+
+---
+
+## 🧑‍💻 About Me
+
+* 💻 Software Developer at **Zamyad Co**
+* ⚙️ Focused on **.NET / C# backend development**
+* 🏢 Working on **enterprise and business applications**
+* 🗄️ Experienced with **SQL Server and database-driven systems**
+* ⚡ Interested in **database performance and query optimization**
+* 🏗️ Interested in **software architecture and scalable systems**
+* 🐳 Working with **Docker and modern deployment workflows**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 🎓 MSc in Software Engineering
+* 📚 Research interests around **AI, Machine Learning & intelligent software systems**
 
 ---
 
@@ -58,7 +57,8 @@ const Mrn = {
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_API-005571?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
@@ -67,7 +67,6 @@ const Mrn = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ### 🗄️ Database & Infrastructure
@@ -81,41 +80,65 @@ const Mrn = {
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I've Worked On
 
-I'm mainly interested in building reliable software around:
+### 🏢 Enterprise Software
 
-* 🏢 **Enterprise & Business Applications**
-* ⚡ **High-performance .NET Backends**
-* 🗄️ **Database-driven Systems**
-* 🧩 **Clean & Maintainable Architecture**
-* 🐳 **Containerized Applications**
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 🧠 **LLM-powered Applications**
+Developing and maintaining **enterprise business applications** at Zamyad Co., with a focus on backend development, business workflows, database-driven systems, and integration between different parts of large-scale applications.
 
-I enjoy working on systems where performance, maintainability, and real-world constraints actually matter.
+`C#` `.NET` `ASP.NET Core` `SQL Server` `Enterprise Software`
 
 ---
 
-## 🔥 Featured Projects
+### ⚡ Database Performance & Optimization
 
-### 🌳 CallFastTreeML
+Working on real-world **SQL Server and EF Core performance problems**, including execution-plan behavior, parameter sniffing, stored procedures, and query performance.
 
-A machine-learning oriented project focused on fast tree-based processing and experimentation.
+I also opened a feature request in the **EF Core repository** around SQL Server `RECOMPILE` scenarios and execution-plan recompilation.
 
-**C# · .NET · Machine Learning**
+`SQL Server` `EF Core` `Performance` `Query Optimization` `C#`
 
-### 🗃️ Db-First-orm
+---
 
-Exploring database-first development and ORM-related approaches for .NET applications.
+### 🤖 AI & Machine Learning Research
 
-**C# · .NET · ORM · SQL**
+Researching and working with **Artificial Intelligence and Machine Learning**, including research on federated learning, active learning, fuzzy deep learning, and privacy-preserving AI.
 
-### 🛒 FastMarket
+My research work includes **Equilateral Active Learning (EAL)**, a framework combining Federated Learning, Active Learning, and Fuzzy Deep Learning for healthcare AI applications.
 
-A web application project focused on implementing a practical full-stack architecture.
+`AI` `Machine Learning` `Federated Learning` `Active Learning` `Deep Learning`
 
-**.NET · JavaScript · Database**
+---
+
+### 🌐 Full-Stack Web Development
+
+Experience across both backend and frontend technologies, building web applications with **.NET, JavaScript and modern web development technologies**.
+
+I also hold a **Full Stack Web Development** certification from Tehran Institute of Technology (MFT).
+
+`C#` `.NET` `JavaScript` `jQuery` `React`
+
+---
+
+## 📌 Open Source & Personal Projects
+
+### 🌳 [CallFastTreeML](https://github.com/mrn7900/CallFastTreeML)
+
+A Machine Learning project for predicting CRM call outcomes using .NET and C#.
+
+`C#` `ML.NET` `Machine Learning`
+
+### 🗃️ [Db-First-orm](https://github.com/mrn7900/Db-First-orm)
+
+Exploring Database-First development and ORM-based data access in .NET.
+
+`C#` `.NET` `ORM` `Database`
+
+### 🛒 [fastmarket](https://github.com/mrn7900/fastmarket)
+
+A web development project exploring practical application development.
+
+`JavaScript` `Web Development`
 
 ---
 
@@ -152,10 +175,10 @@ A web application project focused on implementing a practical full-stack archite
 
 ---
 
-## 👀 Profile Visitors
+## 👁️ Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrn7900&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrn7900.mrn7900&theme=dark" alt="Profile Visitors" />
 </p>
 
 ---
@@ -166,7 +189,7 @@ A web application project focused on implementing a practical full-stack archite
   <a href="https://github.com/mrn7900">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mrn7900">
+  <a href="https://www.linkedin.com/in/mohammad-rahiminia-b1aab11a5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -174,7 +197,7 @@ A web application project focused on implementing a practical full-stack archite
 ---
 
 <p align="center">
-  <i>Building software, learning continuously, and shipping things that actually work.</i>
+  <i>Building reliable software, solving real-world problems, and continuously learning.</i>
 </p>
 
 <p align="center">
