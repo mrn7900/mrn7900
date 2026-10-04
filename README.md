@@ -10,13 +10,12 @@ I enjoy solving real-world engineering problems — from application architectur
 const Mohammad = {
     role: "Software Developer",
 
-    location: "Tehran, Iran",
-
+    
     stack: {
         backend: [".NET", "ASP.NET Core", "C#"],
         frontend: ["JavaScript", "jQuery", "React"],
         databases: ["SQL Server", "MySQL", "Redis"],
-        devOps: ["Docker", "Git", "GitHub"]
+        devOps: ["Docker", "Git"]
     },
 
     interests: [
@@ -36,7 +35,6 @@ const Mohammad = {
 
 ## 🧑‍💻 About Me
 
-* 💻 Software Developer at **Zamyad Co**
 * ⚙️ Focused on **.NET / C# backend development**
 * 🏢 Working on **enterprise and business applications**
 * 🗄️ Experienced with **SQL Server and database-driven systems**
@@ -117,28 +115,6 @@ Experience across both backend and frontend technologies, building web applicati
 I also hold a **Full Stack Web Development** certification from Tehran Institute of Technology (MFT).
 
 `C#` `.NET` `JavaScript` `jQuery` `React`
-
----
-
-## 📌 Open Source & Personal Projects
-
-### 🌳 [CallFastTreeML](https://github.com/mrn7900/CallFastTreeML)
-
-A Machine Learning project for predicting CRM call outcomes using .NET and C#.
-
-`C#` `ML.NET` `Machine Learning`
-
-### 🗃️ [Db-First-orm](https://github.com/mrn7900/Db-First-orm)
-
-Exploring Database-First development and ORM-based data access in .NET.
-
-`C#` `.NET` `ORM` `Database`
-
-### 🛒 [fastmarket](https://github.com/mrn7900/fastmarket)
-
-A web development project exploring practical application development.
-
-`JavaScript` `Web Development`
 
 ---
 
